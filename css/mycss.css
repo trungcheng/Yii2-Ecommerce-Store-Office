@@ -1,0 +1,84 @@
+.page-wrapper {
+    width:100%;
+    padding: 0 15px;
+    min-height: 568px;
+    background-color: #fff;
+}
+#searchInput{
+	margin-top:0px;
+	height:34px;
+}
+.page-wrapper table{
+	width:100%;
+}
+.page-wrapper .form{
+	width:30%;
+}
+.navbar-custom-menu .logo{
+	width:32px;
+	height:32px;
+	position: relative;
+	margin-top: 10px;
+	border-radius: 50px;
+}
+.dropdown-menu .logo2{
+	width:100px;
+	height:100px;
+	position: relative;
+	border-radius: 50px;
+	margin-left:77px;
+}
+.navbar-custom-menu .logo img{
+	position: absolute;
+	top:0;
+	left:0;
+}
+.dropdown-menu .logo2 img{
+	position: absolute;
+	top:0;
+	left:0;
+	border-radius: 50px;
+}
+.alert{width:40%;margin:auto;}
+input[type="checkbox"]{
+	margin-left:10px;
+}
+.wrapper-news{
+	height:120px;
+	margin-top:20px;
+	margin-bottom:10px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.phantrang2 {
+    text-align: right;
+    margin-right: 0px;
+    margin-bottom: -69px;
+}
+.wrapper-img{
+	height:100px;
+	padding-top:5px;
+}
+.wrapper-content{
+	padding-left:0px;
+}
+
+
+@media screen and (max-width: 768px){
+	.dropdown-toggle{
+		margin-right:10px;
+		margin-top:10px;
+		position: relative;
+		border-radius: 50px;
+	}
+	.dropdown-toggle:hover{opacity: 1;}
+	.navbar-custom-menu .logo{
+		width:32px;
+		height:32px;
+		border-radius: 50px;
+		margin-right:10px;
+		position: absolute;
+	}
+	.navbar-custom-menu .logo img{
+	}
+} 

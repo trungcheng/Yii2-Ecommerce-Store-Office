@@ -1,0 +1,2 @@
+[24-Jul-2016 15:32:52 UTC] PHP Fatal error:  Class 'app\models\news' not found in /home/hongdtco/public_html/vpp2000/controllers/NewController.php on line 13
+[26-Jul-2016 03:56:01 UTC] PHP Fatal error:  Call to a member function save() on a non-object in /home/hongdtco/public_html/vpp2000/controllers/SiteController.php on line 122
